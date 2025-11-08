@@ -37,10 +37,18 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats & Activity:
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzalakmimi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzalakmimi&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hamzalakmimi&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=hamzalakmimi&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzalakmimi&layout=compact&theme=tokyonight" />
+</p>
+
+![Hamza's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzalakmimi&theme=tokyo-night)
 
 ---
 
