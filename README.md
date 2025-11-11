@@ -36,8 +36,7 @@
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hamzalakmimi&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hamzalakmimi&theme=transparent)](https://git.io/streak-stats)
 
 ### ✨ About Me
 I’m **Hamza Lakmimi**, a passionate Full Stack Developer focused on building scalable, user-friendly, and high-performing web applications.  
